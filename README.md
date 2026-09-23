@@ -67,10 +67,6 @@ My experience covers the full backend lifecycle: API design, data processing, me
 
 Production-style e-commerce project focused on backend engineering, API design, persistence, testing, and deployment.
 
-### 🤖 [AI Course App API](https://github.com/ferbert-dev/ai-course-app-api)
-
-Backend API for an AI-focused application.
-
 ### 🎫 [Ticket Booking](https://github.com/ferbert-dev/ticket-booking)
 
 Backend project focused on booking workflows and application architecture.
@@ -82,14 +78,6 @@ Backend project focused on booking workflows and application architecture.
 `Distributed Systems` • `Event-Driven Architecture` • `System Design`
 
 `High-Load Backends` • `Cloud Architecture` • `Java Concurrency`
-
----
-
-## 📈 GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ferbert-dev&show_icons=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ferbert-dev&layout=compact&hide_border=true)
 
 ---
 
