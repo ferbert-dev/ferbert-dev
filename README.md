@@ -1,6 +1,6 @@
 # Hi, I'm Igor 👋
 
-### Backend Software Engineer | Java • Kotlin • Spring Boot
+### Fullstack Software Engineer | Java • Kotlin • Spring Boot
 
 I build reliable, scalable backend systems and cloud-native services, with a strong focus on **Java, Kotlin, Spring Boot, event-driven architecture, and distributed systems**.
 
