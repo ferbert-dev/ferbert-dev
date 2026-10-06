@@ -67,10 +67,6 @@ My experience covers the full backend lifecycle: API design, data processing, me
 
 Production-style e-commerce project focused on backend engineering, API design, persistence, testing, and deployment.
 
-### 🎫 [Ticket Booking](https://github.com/ferbert-dev/ticket-booking)
-
-Backend project focused on booking workflows and application architecture.
-
 ---
 
 ## 🧠 Engineering Interests
