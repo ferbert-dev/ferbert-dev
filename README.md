@@ -1,10 +1,10 @@
 # Hi, I'm Igor 👋
 
-### Fullstack Software Engineer | Java • Kotlin • Spring Boot
+### Backend Software Engineer | Java • Kotlin • Distributed Systems
 
-I build reliable, scalable backend systems and cloud-native services, with a strong focus on **Java, Kotlin, Spring Boot, event-driven architecture, and distributed systems**.
+I build reliable backend systems, event-driven services, and cloud-native applications with a strong focus on **Java, Kotlin, Spring Boot, distributed systems, and production engineering**.
 
-My experience covers the full backend lifecycle: API design, data processing, messaging, database integration, cloud deployment, infrastructure as code, observability, and production support.
+My experience covers the full software lifecycle: API and domain design, messaging, relational databases, concurrency, cloud infrastructure, observability, automated testing, production support, and building complete web products when needed.
 
 📍 Valencia, Spain 🇪🇸  
 🌍 Open to remote opportunities across Europe
@@ -15,65 +15,59 @@ My experience covers the full backend lifecycle: API design, data processing, me
 
 ### Backend
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) ![Vert.x](https://img.shields.io/badge/Vert.x-782A90?style=for-the-badge&logo=eclipsevertdotx&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white) ![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
+
+### Frontend
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ### Data & Messaging
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Google Pub/Sub](https://img.shields.io/badge/Google_Pub%2FSub-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Google Pub/Sub](https://img.shields.io/badge/Google_Pub%2FSub-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 ### Cloud & DevOps
 
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) ![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-### Observability & Engineering Tools
+### Observability & Engineering
 
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## ⚙️ What I Work With
-
-- ☕ Java & Kotlin backend development
-- 🌱 Spring Boot microservices and REST APIs
-- 📨 Event-driven architecture with Kafka and Pub/Sub
-- 🐘 PostgreSQL and relational data modeling
-- ☁️ Google Cloud Platform and cloud-native services
-- 🐳 Docker and Kubernetes
-- 🏗️ Terraform and Infrastructure as Code
-- 📊 Monitoring, metrics, alerting, and observability
-- ⚡ Java concurrency and asynchronous processing
-- 🧪 Automated testing and production-oriented engineering
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white) ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black) ![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🍺 [Hop & Barley Store](https://github.com/ferbert-dev/hop-and-barley-store)
+### 🏟️ [Live Sportsbook Platform](https://github.com/ferbert-dev/sport-book-platform)
 
-Production-style e-commerce project focused on backend engineering, API design, persistence, testing, and deployment.
+Event-driven live betting platform built with **Java 21, Spring Boot, Kafka, Redis, PostgreSQL, Vert.x, and RxJava**.
+
+Designed around real distributed-systems concerns including transactional outbox, idempotent bet placement and settlement, replayable event streams, Redis projections, WebSocket updates, provider recovery, and consistency trade-offs.
 
 ---
 
-## 🧠 Engineering Interests
+### 🤖 [Telegram News Agent](https://github.com/ferbert-dev/telegram-news-agent)
+
+Production AI news platform that automatically researches, verifies, writes, and publishes news to Telegram.
+
+Built with **TypeScript, NestJS, PostgreSQL, OpenAI, Gemini, Exa, and Oracle Cloud**, with provider failover, circuit breakers, idempotent publishing, PostgreSQL-based concurrency control, cost tracking, and 900+ automated tests.
+
+---
+
+### 🍺 [Hop & Barley Store](https://github.com/ferbert-dev/hop-and-barley-store)
+
+Full-stack e-commerce platform built as a professional TypeScript monorepo with **Next.js, React, NestJS, PostgreSQL, Prisma, OpenAPI, Docker, and Playwright**.
+
+Includes authentication, transactional order processing, inventory reservations, generated API contracts, database migrations, CI pipelines, and a reproducible Docker-based development environment.
+
+---
+
+## 🧠 Engineering Focus
 
 `Distributed Systems` • `Event-Driven Architecture` • `System Design`
 
-`High-Load Backends` • `Cloud Architecture` • `Java Concurrency`
+`Java Concurrency` • `High-Load Backends` • `Cloud Architecture`
+
+`Reliability` • `Observability` • `Production Engineering`
 
 ---
 
