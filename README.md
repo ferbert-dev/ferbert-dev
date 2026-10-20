@@ -61,6 +61,14 @@ Includes authentication, transactional order processing, inventory reservations,
 
 ---
 
+### 📦 [Million Rows to S3](https://github.com/ferbert-dev/million-rows-to-s3)
+
+Spring Batch export of 1,000,000 PostgreSQL rows to a file in an S3 bucket, built twice and measured: a sequential cursor version (8.6 s) and a partitioned parallel version (3.2 s).
+
+Built with **Java 21, Spring Boot, Spring Batch, PostgreSQL, S3 multipart upload, Docker, and Caddy**, with a live dashboard, restart after a `kill -9` with no duplicate rows, and tuning findings on query plans, connection counts, and garbage collectors.
+
+---
+
 ## 🧠 Engineering Focus
 
 `Distributed Systems` • `Event-Driven Architecture` • `System Design`
